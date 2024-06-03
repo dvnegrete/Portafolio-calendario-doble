@@ -3,7 +3,9 @@ import './style.css'
 document.querySelector('#app').innerHTML = `
   <div class="container">
     <h1>Calendario Doble</h1>
-    <p>Valores de variables CSS</p>
+    <a href="https://www.npmjs.com/package/dvn-calendar-double">Publicado en NPM</a>
+    
+    <h2>Valores de variables CSS</h2>
     
     <form class="form-input">
       <div>
