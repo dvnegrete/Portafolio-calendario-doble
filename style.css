@@ -1,5 +1,4 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -12,13 +11,14 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  --primary-color: #1e5712;
-  --secondary-color: #1b480cf3;
-  --tertiary-color: #6290a1;
-  --inactive-color: #737575fa;
-  --backgroud-color: #b7d2f1;
-  --border-color: #cccccc;
-  --font-color: #171809;
+  --primary-color: #056dae;
+  --secondary-color: #0075c0;
+  --tertiary-color: #def6ff;
+  --inactive-color: #B3B3B3;
+  --backgroud-color: #FFFFFF;
+  --border-color: #CCCCCC;
+  --font-color: #323232;
+  --font-light: 'InterStateL', sans-serif;
 }
 
 a {
